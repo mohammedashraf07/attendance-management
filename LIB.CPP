@@ -62,7 +62,7 @@ void attendencein::input(void)
          cin>>subcode;
         cout<<"\n Input class number : ";
         cin>>lecno;
-        cout<<"\n Total student      : ";
+        cout<<"\n Total student 22      : ";
         cin>>tot ;
         attend();
         file();
